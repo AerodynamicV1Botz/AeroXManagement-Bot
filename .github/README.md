@@ -13,8 +13,8 @@
   <img src="https://github.com/AerodynamicV1Botz/Management-AeroBot/blob/master/Management-AeroBot/resources/fallen.jpg">
 </p>
 
-## ㅤㅤㅤ 🖤ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ🖤
-ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [💞ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ​💞](https://t.me/AeroXRobot)
+## ㅤㅤㅤ 🖤 Management-AeroBot🖤
+ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Management-AeroBot](https://t.me/AeroXRobot)
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ​...
 ━━━━━━━━━━━━━━━━━━━━━━
 ## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
