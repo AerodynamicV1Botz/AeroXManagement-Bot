@@ -1,6 +1,6 @@
-<H2>    🤖AeroXRobot🤖    </H2>
+<H2>    🤖AeroXManagement-Bot🤖    </H2>
 <div align="center">
-<img src="https://telegra.ph//file/930b78ad0d3629f7047ec.jpg" alt=""></div>
+<img src="https://telegra.ph//file/984acd4888eca68848c50.jpg" alt=""></div>
 <h3 align="center"> 
     A Modular Telegram Python Bot Running On Python3 With Mongo DB, Sqlalchemy, Redis Database.
 </h3>
