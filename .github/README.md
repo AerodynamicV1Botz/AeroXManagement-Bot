@@ -9,7 +9,7 @@
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
     </a>
-<a href="https://GitHub.com/Awesome-Tofu">
+<a href="https://GitHub.com/AerodynamicV1Botz">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a>
 <img src="https://img.shields.io/badge/python-3.10.1-green?style=for-the-badge&logo=appveyor" alt="Python Version">
@@ -36,8 +36,7 @@
 
 ### ╒═══「 Creator Info/Credits 」
 +  [AerodynamicV1Botz](https://GitHub.com/AerodynamicV1Botz) : OWNER | DEV
-+  [Awesome_Tofu](https://GitHub.com/Awesome-Tofu) : BASE
-+  [Rajkumar](https://github.com/Awesome-RJ) : BASE
++  [Anonymous](https://github.com/AnonymousR1025) : BASE
 
 ╘══「 Any other authorship/credits can be seen through the commits. 」
 
