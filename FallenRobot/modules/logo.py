@@ -302,5 +302,5 @@ __mod_name__ = "Lᴏɢᴏ​"
 __help__ = """
 Fallen Robot can create some beautiful and attractive logo for your profile pics.
 
-❍ /logo (Text) *:* Create a logo of your given text with random view.
+❍ /logo `Aero` *:* Create a logo of your given text with random view.
 """
