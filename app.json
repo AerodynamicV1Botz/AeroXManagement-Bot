@@ -1,7 +1,7 @@
 {
       "name": "AeroXManagement-Bot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://telegra.ph//file/984acd4888eca68848c50.jpg",
+      "logo": "https://telegra.ph//file/12f8ffad078bbbe5fa09e.jpg",
       "keywords": [
          "telegram",
          "sexy",
@@ -170,7 +170,7 @@
       "START_IMG": {
       "description": "Telegraph link of the image which will be shown at start command.",
          "required": false,
-         "value": "https://telegra.ph//file/984acd4888eca68848c50.jpg"
+         "value": "https://telegra.ph//file/12f8ffad078bbbe5fa09e.jpg"
    },      
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people.",
