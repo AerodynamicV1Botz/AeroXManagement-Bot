@@ -88,7 +88,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="[►Help/Command◄]", callback_data="help_back"),
-        InlineKeyboardButton(tetext[►About Me ◄]", callback_data="fallen_"),
+        InlineKeyboardButton(text="[►About Me ◄]", callback_data="fallen_"),
     ],
     [
         InlineKeyboardButton(text="[►Source Code◄]", callback_data="source_"),
