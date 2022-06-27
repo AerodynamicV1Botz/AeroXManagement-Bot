@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/python-3.10.1-green?style=for-the-badge&logo=appveyor" alt="Python Version">
 <img src="https://img.shields.io/badge/Telethon-1.24.0-yellow?style=for-the-badge&logo=appveyor" alt="Telethon Version">
 <img src="https://img.shields.io/badge/Pyrogram-1.4.1-red?style=for-the-badge&logo=appveyor" alt="Pyrogram Version">
-<a href="https://github.com/AerodynamicV1Botz/AeroXRobot Robot"> <img src="https://img.shields.io/github/repo-size/AerodynamicV1Botz/AeroXRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/AerodynamicV1Botz/AeroXManagement-Bot"> <img src="https://img.shields.io/github/repo-size/AerodynamicV1Botz/AeroXRobot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>
 <div>
 
 ###  ╒═══「 Status 」
@@ -29,7 +29,7 @@
 + [x] Heroku Deploy
 + [x] Docker/Local Machine
 
-╘══「 Can be found on telegram as [AeroXRobot](https://t.me/AeroXrobot) 」
+╘══「 Can be found on telegram as [AeroXManagement-Bot](https://t.me/AeroXManagement_Bot) 」
 
 
 ![Tofu](https://telegra.ph//file/2a8e42a346478715b197f.jpg)
@@ -42,7 +42,7 @@
 
 ### ╒═══「 Support Group 」 
 
-The Support group can be reached out to at [Support💬](https://t.me/AerodynamicV1_Promotion), where you can ask for help about [AeroXRobot](https://t.me/AeroXrobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available.
+The Support group can be reached out to at [Support💬](https://t.me/AerodynamicV1_Promotion), where you can ask for help about [AeroXManagement-Bot](https://t.me/AeroXManagement_Bot), discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
 </h3>
 
