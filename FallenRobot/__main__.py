@@ -738,7 +738,7 @@ def main():
             dispatcher.bot.send_photo(
                 f"@{SUPPORT_CHAT}",
                 "https://telegra.ph//file/12f8ffad078bbbe5fa09e.jpg",
-                caption="**Aero ✘ Management~🇮🇳 Is Alive** !\n\n**Powered 💚 By [AerodynamicV1🥀](https://t.me/AerodynamicV1_OFFICIAL)",
+                caption="**Aero ✘ Management~🇮🇳 Is Alive** !\n\n**Powered 💚 By [AerodynamicV1🥀](https://t.me/AerodynamicV1_OFFICIAL)**",
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
