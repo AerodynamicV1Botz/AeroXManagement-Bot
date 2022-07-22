@@ -56,8 +56,8 @@ def kukirm(update: Update, context: CallbackContext) -> str:
             )
         else:
             update.effective_message.edit_text(
-                "**Aero ✘ Management~🇮🇳 ChatBot Enabled By {}.**".format(
-                    mention_html(user.id, user.first_name)
+                "{} ᴄʜᴀᴛʙᴏᴛ ᴅɪsᴀʙʟᴇᴅ ʙʏ {}.".format(
+                    dispatcher.bot.first_name, mention_html(user.id, user.first_name)
                 ),
                 parse_mode=ParseMode.HTML,
             )
@@ -67,35 +67,6 @@ def kukirm(update: Update, context: CallbackContext) -> str:
 
 @run_async
 @user_admin_no_reply
-@gloggable
-def kukiadd(update: Update, context: CallbackContext) -> str:
-    query: Optional[CallbackQuery] = update.callback_query
-    user: Optional[User] = update.effective_user
-    match = re.match(r"add_chat\((.+?)\)", query.data)
-    if match:
-        user_id = match.group(1)
-        chat: Optional[Chat] = update.effective_chat
-        is_kuki = sql.set_kuki(chat.id)
-        if is_kuki:
-            is_kuki = sql.set_kuki(user_id)
-            return (
-                f"<b>{html.escape(chat.title)}:</b>\n"
-                f"AI_ENABLE\n"
-                f"<b>Admin:</b> {mention_html(user.id, html.escape(user.first_name))}\n"
-            )
-        else:
-            update.effective_message.edit_text(
-                "**Aero ✘ Management~🇮🇳 ChatBot Enabled By {}.**".format(
-                    mention_html(user.id, user.first_name)
-                ),
-                parse_mode=ParseMode.HTML,
-            )
-
-    return ""
-
-
-@run_async
-@user_admin
 @gloggable
 def kuki(update: Update, context: CallbackContext):
     user = update.effective_user
@@ -137,7 +108,8 @@ def chatbot(update: Update, context: CallbackContext):
         if not kuki_message(context, message):
             return
         anon = message.text
-        bot.send_chat_action(chat_id, action="typing")
+        bot.send_chat_action(chat_id, 
+action="typing")
         url = f"https://kukiapi.xyz/api/apikey=1356469075-KUKIkq4WMg5FV4/Fallen/Anonymous/message={anon}"
         request = requests.get(url)
         results = json.loads(request.text)
@@ -148,7 +120,7 @@ def chatbot(update: Update, context: CallbackContext):
 
 def list_all_chats(update: Update, context: CallbackContext):
     chats = sql.get_all_kuki_chats()
-    text = "<b>Fallen Enabled Chats</b>\n"
+    text = "<b>ChatBot Enabled Chats</b>\n"
     for chat in chats:
         try:
             x = context.bot.get_chat(int(*chat))
